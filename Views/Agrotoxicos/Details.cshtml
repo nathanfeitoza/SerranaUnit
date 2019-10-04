@@ -1,0 +1,36 @@
+﻿@model Serrana.Models.Agrotoxico
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Agrotoxico</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Qtd_Disponivel)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Qtd_Disponivel)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Unidade_Medida)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Unidade_Medida)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Agro_Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Serrana.Models.AplicacaoAgrotoxico>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Qtd_Aplicada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Area)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agrotoxico)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Qtd_Aplicada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Area.Area_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Agrotoxico.Nome)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Area_Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Area_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

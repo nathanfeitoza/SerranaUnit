@@ -1,0 +1,36 @@
+﻿@model Serrana.Models.Praga
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Praga</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome_Popular)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome_Popular)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome_Cientifico)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome_Cientifico)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Estacao)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Estacao)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Praga_Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

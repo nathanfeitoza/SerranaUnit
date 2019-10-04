@@ -1,0 +1,144 @@
+C:\Users\Kelvin Murilo\source\repos\Serrana\bin\Debug\netcoreapp2.1\Serrana.deps.json
+C:\Users\Kelvin Murilo\source\repos\Serrana\bin\Debug\netcoreapp2.1\Serrana.runtimeconfig.json
+C:\Users\Kelvin Murilo\source\repos\Serrana\bin\Debug\netcoreapp2.1\Serrana.runtimeconfig.dev.json
+C:\Users\Kelvin Murilo\source\repos\Serrana\bin\Debug\netcoreapp2.1\Serrana.dll
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.csprojAssemblyReference.cache
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorAssemblyInfo.cache
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorAssemblyInfo.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.AssemblyInfoInputs.cache
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.AssemblyInfo.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.TagHelpers.input.cache
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.TagHelpers.output.cache
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorCoreGenerate.cache
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorTargetAssemblyInfo.cache
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorTargetAssemblyInfo.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\bin\Debug\netcoreapp2.1\Serrana.pdb
+C:\Users\Kelvin Murilo\source\repos\Serrana\bin\Debug\netcoreapp2.1\Serrana.Views.dll
+C:\Users\Kelvin Murilo\source\repos\Serrana\bin\Debug\netcoreapp2.1\Serrana.Views.pdb
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.Views.pdb
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.dll
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.pdb
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Serrana.csproj.CopyComplete
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Create.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Delete.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Details.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Edit.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Index.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Create.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Delete.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Details.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Edit.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Index.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Create.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Delete.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Details.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Edit.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Index.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Create.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Delete.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Details.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Edit.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Index.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicoes\Create.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicoes\Delete.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicoes\Details.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicoes\Edit.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicoes\Index.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicoes\Create.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicoes\Delete.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicoes\Details.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicoes\Edit.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicoes\Index.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Create.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Delete.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Details.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Edit.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Index.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Create.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Delete.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Details.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Edit.g.cshtml.cs
+C:\Users\Kelvin Murilo\source\repos\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\bin\Debug\netcoreapp2.1\Serrana.deps.json
+C:\Users\1171139648\Desktop\Serrana\bin\Debug\netcoreapp2.1\Serrana.runtimeconfig.json
+C:\Users\1171139648\Desktop\Serrana\bin\Debug\netcoreapp2.1\Serrana.runtimeconfig.dev.json
+C:\Users\1171139648\Desktop\Serrana\bin\Debug\netcoreapp2.1\Serrana.dll
+C:\Users\1171139648\Desktop\Serrana\bin\Debug\netcoreapp2.1\Serrana.pdb
+C:\Users\1171139648\Desktop\Serrana\bin\Debug\netcoreapp2.1\Serrana.Views.dll
+C:\Users\1171139648\Desktop\Serrana\bin\Debug\netcoreapp2.1\Serrana.Views.pdb
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.csprojAssemblyReference.cache
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.csproj.CoreCompileInputs.cache
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorAssemblyInfo.cache
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorAssemblyInfo.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.AssemblyInfoInputs.cache
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.AssemblyInfo.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.TagHelpers.input.cache
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.TagHelpers.output.cache
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorCoreGenerate.cache
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Create.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Delete.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Details.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Edit.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Areas\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Create.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Delete.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Details.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Edit.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Ataques\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Create.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Delete.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Details.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Edit.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Combates\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Create.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Delete.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Details.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Edit.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Culturas\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Create.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Delete.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Details.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Edit.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Funcionarios\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Create.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Delete.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Details.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Edit.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Pragas\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorTargetAssemblyInfo.cache
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.RazorTargetAssemblyInfo.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.Views.pdb
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.dll
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.pdb
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Serrana.csproj.CopyComplete
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicos\Create.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicos\Delete.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicos\Details.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicos\Edit.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\Agrotoxicos\Index.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicos\Create.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicos\Delete.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicos\Details.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicos\Edit.g.cshtml.cs
+C:\Users\1171139648\Desktop\Serrana\obj\Debug\netcoreapp2.1\Razor\Views\AplicacaoAgrotoxicos\Index.g.cshtml.cs

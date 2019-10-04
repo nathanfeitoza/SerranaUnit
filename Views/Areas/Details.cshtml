@@ -1,0 +1,113 @@
+﻿@model Serrana.Models.Area
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Area Show</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Tamanho)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Tamanho)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Cultura)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Cultura.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Funcionario)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Funcionario.Nome)
+        </dd>
+    </dl>
+
+    <hr />
+
+    <h4>Aplicações Preventivas</h4>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Data
+                </th>
+                <th>
+                    Pragas
+                </th>
+                <th>
+                    Qtde Agrotóxico
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.AplicacoesAgrotoxicos)
+            {
+                @if(item.Tipo == "corretiva" || item.Tipo == "CORRETIVA") {
+                    <tr>
+                        <td>Fazer Data</td>
+                        <td>Fazer Pragas</td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Qtd_Aplicada)
+                        </td>
+                    </tr>
+               }
+            }
+        </tbody>
+    </table>
+
+    <hr />
+
+    <h4>Aplicações Corretivas</h4>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Data
+                </th>
+                <th>
+                    Pragas
+                </th>
+                <th>
+                    Qtde Agrotóxico
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.AplicacoesAgrotoxicos)
+            {
+                @if(item.Tipo != "corretiva" && item.Tipo != "CORRETIVA") {
+                    <tr>
+                        <td>Fazer Data</td>
+                        <td>Fazer Pragas</td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Qtd_Aplicada)
+                        </td>
+                    </tr>
+               }
+            }
+        </tbody>
+    </table>
+
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Area_Id">Editar</a> |
+    <a asp-action="Index">Voltar</a>
+</div>
